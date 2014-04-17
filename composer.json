@@ -1,0 +1,6 @@
+{
+    "name": "monofone/virtaldisqus",
+    "type": "symfony-bundle",
+    "description": "Disqus integration for symfony",
+    "license": "MIT"
+}
