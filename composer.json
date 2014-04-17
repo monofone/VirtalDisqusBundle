@@ -2,5 +2,10 @@
     "name": "monofone/virtaldisqus",
     "type": "symfony-bundle",
     "description": "Disqus integration for symfony",
-    "license": "MIT"
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Virtal\\Bundle\\DisqusBundle\\": ""
+        }
+    }
 }
